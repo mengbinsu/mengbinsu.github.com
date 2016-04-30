@@ -17,5 +17,3 @@ icon: heart
 ## 友情链接
 
 ## Comments
-
-{% include comments.html %}
